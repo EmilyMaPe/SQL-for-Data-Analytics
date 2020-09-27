@@ -12,3 +12,12 @@ In this notebbok you can learn to use:
   * NOT
   * AND & BETWEEN
   * OR
+## SQL JOINs
+
+In this notebbok you can learn to use:
+
+* INNER JOINs
+* ALIAS
+* Types oj JOINs
+    * LEFT JOIN
+    * RIGHT JOIN
