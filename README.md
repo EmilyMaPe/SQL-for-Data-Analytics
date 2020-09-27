@@ -18,6 +18,6 @@ In this notebbok you can learn to use:
 
 * INNER JOINs
 * ALIAS
-* Types oj JOINs
+* Types of JOINs
     * LEFT JOIN
     * RIGHT JOIN
